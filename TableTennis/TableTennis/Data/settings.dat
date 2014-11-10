@@ -1,0 +1,21 @@
+gameType PL1vsPC
+gameSpeed 45
+currentGameSpeed 45
+currentProbability 85
+racketLength 7
+probability 85
+ballPositionX 24
+ballPositionY 8
+ballCurrentDirectionX 0
+ballCurrentDirectionY 2
+ballDirection Left
+firstRacketY 13
+secondRacketY 5
+firstPlayerPoints 4
+firstPlayerSetsWon 0
+secondPlayerPoints 0
+secondPlayerSetsWon 0
+firstPlayerService False
+0 0 0 0 0
+0 0 0 0 0
+setCount 0
